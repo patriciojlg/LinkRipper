@@ -10,8 +10,8 @@ linksRipper  v0.1
 Extrae links de descarga de peliculas de distintos sitios... 
 y extrae de ésta los nombres de las peliculas y sus link de descargas respectivo. 
 En sí está pensado para no ver publicidad - y tener link de descargas de manera rápida.
-El proyecto hasta el momento está pensado para trabajar con un solo portal, no obstante, 
-más adelante logrará sacar links de descargas de los sitios que acumulan descargas de peliculas más importantes
+El proyecto hasta el momento trabaja con un solo portal, no obstante, 
+más adelante logrará filtrar links de descargas de los sitios que acumulan descargas de peliculas más importantes
 como peliculasyonkis, ice-films.info, newdivx.com, etc. 
 
 ENJOY!!!
